@@ -1,8 +1,15 @@
-# 🎉 Welcome to my LeetCode Repository!
-...
+# 💻 Welcome to my LeetCode Repository!
+
+This repository contains my structured solutions to various problems on [LeetCode](https://leetcode.com).  
+Here you’ll find clean, categorized, and well-documented Python solutions across all difficulty levels — **Easy**, **Medium**, and **Hard**.
+
+> 🧠 Whether you're preparing for coding interviews or improving your problem-solving skills, feel free to explore and use this as a reference or inspiration!
+
 
 ## 🚀 My LeetCode Profile Stats
-...
+```text
+no bio yet...
+```
 
 ---
 
@@ -34,3 +41,15 @@ leetcode/
     └── generate_tests.py        ← Script for generating random tests 
 
 ```
+
+---
+
+## 📬 Contacts
+
+Ways to get in touch with me:
+
+<ul>
+  <li>✈️ <strong>Telegram:</strong> <a href="https://t.me/xAikq">@xAikq</a></li>
+  <li>📧 <strong>Email:</strong> <code>xaikq@yandex.ru</code></li>
+  <li>💬 <strong>Discord:</strong> <code>xAikq</code></li>
+</ul>
