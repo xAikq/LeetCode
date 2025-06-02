@@ -5,6 +5,7 @@ Here you’ll find clean, categorized, and well-documented Python solutions acro
 
 > 🧠 Whether you're preparing for coding interviews or improving your problem-solving skills, feel free to explore and use this as a reference or inspiration!
 
+---
 
 ## 🚀 My LeetCode Profile Stats
 ```text
